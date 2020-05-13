@@ -13,6 +13,3 @@ Use the following commands to get started in making a new repo:
 
 
 Now you may open the folder/repository in Visual Studio Code or your respective IDE and start working!
-
-## Notes
-**Wednesday, 13 May, 2020**
